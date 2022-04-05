@@ -11,6 +11,7 @@
 		35CB5DE727FB7ABC00446473 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CB5DE627FB7ABC00446473 /* ContentView.swift */; };
 		35CB5DE927FB7ABE00446473 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35CB5DE827FB7ABE00446473 /* Assets.xcassets */; };
 		35CB5DEC27FB7ABE00446473 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35CB5DEB27FB7ABE00446473 /* Preview Assets.xcassets */; };
+		35CB5DF327FB86F500446473 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35CB5DF227FB86F500446473 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		35CB5DE627FB7ABC00446473 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		35CB5DE827FB7ABE00446473 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35CB5DEB27FB7ABE00446473 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		35CB5DF227FB86F500446473 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				35CB5DE427FB7ABC00446473 /* ColorAppSwiftUIApp.swift */,
 				35CB5DE627FB7ABC00446473 /* ContentView.swift */,
+				35CB5DF227FB86F500446473 /* Model.swift */,
 				35CB5DE827FB7ABE00446473 /* Assets.xcassets */,
 				35CB5DEA27FB7ABE00446473 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35CB5DF327FB86F500446473 /* Model.swift in Sources */,
 				35CB5DE727FB7ABC00446473 /* ContentView.swift in Sources */,
 				35CB5DE527FB7ABC00446473 /* ColorAppSwiftUIApp.swift in Sources */,
 			);
